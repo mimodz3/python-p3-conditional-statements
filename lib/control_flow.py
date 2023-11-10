@@ -47,7 +47,3 @@ def calculator(operation, num1, num2):
             print("Invalid operation: Division by zero!")
     else:
         print("Invalid operation!")
-
-# Example usage:
-result = calculator("+", 5, 3)
-print(result)  # Output: 8
